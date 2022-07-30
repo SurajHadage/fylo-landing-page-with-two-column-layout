@@ -134,7 +134,7 @@ main {
     background-color: #fff;
     margin-block-start: 40px;
     padding: 25px 30px;
-    width: 50%;
+    width: 60%;
     text-align: left;
     border-radius: 4px;
     box-shadow: 1px 1px 4px 0px rgba(0, 0, 0, 0.125), -1px -1px 4px 0px rgba(0, 0, 0, 0.125);
@@ -268,7 +268,7 @@ a:hover, a:focus {
 a:visited {
     color: var(--Light-Gray);
 }
-.col-4 a:hover {
+.col-4 li:hover {
     color: var(--Bright-Blue);
 }
 .col-4 li:hover {
